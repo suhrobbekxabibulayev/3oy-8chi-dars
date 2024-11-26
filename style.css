@@ -28,3 +28,29 @@ body {
     color: rgba(131, 136, 143, 1);
 
 }
+.div2{
+    margin-top: 43px;
+    margin-left: 170px;
+    border-radius: 10px;
+    width: 1280px;
+    height: 600px;
+    background-image: url(/pages/Bitmap\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.div2__div{
+    margin-left: 85px;
+    padding-top: 117px;
+}
+.div2__h1{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 72px;
+    color: white;
+}
+.div2__p{
+    font-family: 'Barlow';
+    font-size: 16px;
+    color: white;
+    opacity: 80%;
+}
