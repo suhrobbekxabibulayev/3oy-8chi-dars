@@ -54,3 +54,216 @@ body {
     color: white;
     opacity: 80%;
 }
+.div2__button{
+    width: 217px;
+    height: 56px;
+    border-radius: 6px;
+    background-color: rgba(14, 135, 132, 1);
+    margin-left: 85px;
+    border: none;
+    margin-top: 36px;
+    cursor: pointer;
+}
+.button__h1{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 18px;
+    color: white;
+}
+
+.div3{
+    margin-top: 136px;
+    margin-left: 165px;
+    padding-right: 90px;
+    background-image: url(/pages/Group\ 13.svg);
+    background-repeat: no-repeat;
+}
+.div1__img{
+    margin-left: 19px;
+}
+.div3__div2{
+    display: flex;
+}
+.div3__div2{
+    padding-right: 200px;
+}
+.div3__img{
+    margin-left: 195px;
+}
+
+.div4{
+    border-radius: 10px;
+    width: 1280px;
+    height: 577px;
+    background-color: rgba(44, 52, 62, 1);
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.div4__div1{
+    margin-left: 370px;
+    padding-top: 100px;
+    color: rgba(254, 252, 247, 1);
+}
+.div4__h1{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 40px;    
+    margin-left: 105px;
+}
+.div4__p{
+    margin-right: 370px;
+    font-family: 'Barlow';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.div5{
+    display: flex;
+    gap: 30px;
+    margin-left: 85px;
+    padding-top: 86px;
+}
+.div5__div1{
+    width: 350px;
+    height: 382px;
+    background-color: rgba(14, 135, 132, 1);
+    border-radius: 8px;
+}
+.div5__img1{
+    padding-top: 72px;
+    padding-left: 136px;
+}
+.div5__text{
+    margin-top: 56px;
+}
+.text__h1{
+    color: #fff;
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.text__p{
+    transition: all 1.3s;
+    padding-left: 12px;
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #fff;
+}
+
+.div6{
+    width: 1045px;
+    height: 565px;
+    margin-top: 200px;
+    padding-left: 90px;
+}
+.div6__h1{
+    font-family: 'Fraunces';
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(131, 136, 143, 1);
+}
+.div6__div1{
+    gap: 95px;
+    display: flex;
+    width: 1045px;
+    height: 453px;
+    background-image: url(/pages/Frame\ 1\ \(4\).svg);
+    background-repeat: no-repeat;
+    margin-top: 80px;
+}
+.div6__block{
+    width: 285px;
+    height: 355px;
+    margin-top: 67px;
+}
+.block__h1{
+    font-family: 'Fraunces';
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(253, 214, 186, 1);
+}
+.block__p{
+    color: rgba(51, 61, 75, 1);
+    font-family: 'Fraunces';
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.block__p2{
+    font-family: 'Barlow';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(51, 61, 75, 1);
+}
+.button{
+    width: 217px;
+    height: 56px;
+    border-radius: 6px;
+    background-color: rgba(14, 135, 132, 1);
+    border: none;
+    margin-top: 79px;
+    cursor: pointer;
+}
+.button__h1{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 18px;
+    color: white;
+}
+
+.div7{
+    width: 1280px;
+    height: 208px;
+    margin-top: 200px;
+}
+.div7__div1{
+    width: 1280px;
+    height: 120px;
+    background-color: rgba(44, 52, 62, 1);
+}
+.div7__block{
+    padding-right: 200px;
+    align-items: center;
+    display: flex;
+    gap: 102px;
+}
+.div__div3{
+    display: flex;
+    gap: 33px;
+}
+.div__logo1{
+    padding-bottom: 43px;
+}
+
+.div7__block2{
+    display: flex;
+    gap: 24px;
+    padding-left: 368px;
+}
